@@ -55,13 +55,13 @@ h2 {
   font-size: 2rem;
   border-radius: 0.75rem;
   border: 0.125rem solid #111;
-  color: hsl(0, 4%, 14%);
   cursor: pointer;
   transition: transform ease 100ms;
 }
 
 .cta button:first-child {
   background-color: rgb(152, 241, 146);
+  color: hsl(0, 4%, 14%);
 }
 
 .cta button:first-child:hover {
@@ -70,6 +70,7 @@ h2 {
 
 .cta button:last-child {
   background-color: rgb(255, 146, 139);
+  color: hsl(0, 4%, 14%);
 }
 .cta button:last-child:hover {
   background-color: rgb(204, 112, 112);
