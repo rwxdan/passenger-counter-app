@@ -35,6 +35,7 @@ h1 {
   font-family: var(--ff);
   font-weight: var(--fw-700);
   font-size: 3.5rem;
+  color: hsl(0, 4%, 14%);
 }
 
 h2 {
@@ -42,6 +43,7 @@ h2 {
   font-weight: var(--fw-500);
   font-size: 3.5rem;
   text-decoration: underline;
+  color: hsl(0, 4%, 14%);
 }
 
 .cta button {
@@ -53,6 +55,7 @@ h2 {
   font-size: 2rem;
   border-radius: 0.75rem;
   border: 0.125rem solid #111;
+  color: hsl(0, 4%, 14%);
   cursor: pointer;
   transition: transform ease 100ms;
 }
